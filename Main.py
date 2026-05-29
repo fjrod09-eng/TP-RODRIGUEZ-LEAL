@@ -1,0 +1,2 @@
+from generadores import *
+Crear()
