@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="UAHhDKlsILKf5-ruk1zm">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VD0cDq38-YJdacjmpxNt-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Reposando" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Calentando" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-6" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=26.8;direction=north;notch=0;rotation=-45;" value="" vertex="1">
+          <mxGeometry height="266.82" width="41.82" x="319.22" y="105.43" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-8" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="318.18" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp_bebe==bajo" vertex="1">
+          <mxGeometry height="10" width="111.82" x="318.18" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prender_calefactor(ON)&lt;div&gt;temp_bebe=normal&lt;/div&gt;&lt;div&gt;led_calefactor(ON)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-14" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="120" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp_bebe==normal" vertex="1">
+          <mxGeometry height="10" width="111.82" x="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prender_calefactor(OFF)&lt;div&gt;led_calefactor(OFF)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="121.82" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ventilando" vertex="1">
+          <mxGeometry height="80" width="120" x="740" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-25" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=26.8;direction=north;notch=0;rotation=45;" value="" vertex="1">
+          <mxGeometry height="266.82" width="41.82" x="610.000718472708" y="90.00071847270799" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-26" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=26.8;direction=north;notch=0;rotation=135;" value="" vertex="1">
+          <mxGeometry height="266.82" width="41.82" x="290.000718472708" y="125.00071847270797" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-28" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="530" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp_bebe==alto" vertex="1">
+          <mxGeometry height="10" width="111.82" x="530" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prender_ventilador(ON&lt;div&gt;temp_bebe=normal&lt;/div&gt;&lt;div&gt;led_ventilador(ON)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="531.8199999999999" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-31" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=26.8;direction=north;notch=0;rotation=-135;" value="" vertex="1">
+          <mxGeometry height="266.82" width="41.82" x="680" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-33" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="760" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="temp_bebe==normal" vertex="1">
+          <mxGeometry height="10" width="111.82" x="760" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VD0cDq38-YJdacjmpxNt-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prender_ventilador(OFF)&lt;div&gt;led_ventilador(OFF)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="761.8199999999999" y="325" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
