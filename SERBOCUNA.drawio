@@ -88,7 +88,7 @@
         <mxCell id="S-rAshJhEEYWACF8MSH5-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=26.8;direction=north;notch=0;rotation=-115;" value="" vertex="1">
           <mxGeometry height="440" width="41.82" x="224.59" y="261.68" as="geometry" />
         </mxCell>
-        <mxCell id="S-rAshJhEEYWACF8MSH5-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="S-rAshJhEEYWACF8MSH5-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Iluminando" vertex="1">
           <mxGeometry height="80" width="120" x="-110" y="550" as="geometry" />
         </mxCell>
         <mxCell id="S-rAshJhEEYWACF8MSH5-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=37.46;direction=north;notch=0;rotation=90;" value="" vertex="1">
@@ -105,6 +105,42 @@
         </mxCell>
         <mxCell id="S-rAshJhEEYWACF8MSH5-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="prender_calefactor(OFF)&lt;div&gt;led_calefactor(OFF)&lt;/div&gt;&lt;div&gt;led_ventilador(OFF)&lt;/div&gt;&lt;div&gt;prender_ventilador(OFF)&lt;/div&gt;&lt;div&gt;luz(normal)&lt;/div&gt;&lt;div&gt;estado=reposando&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="3.6399999999999935" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-18" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="102.77" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="estado_bebe=despierto&lt;div&gt;foto_rest=baja&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="111.82" x="107.77" y="410.59" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="foto_rest=normal&lt;div&gt;buzzer_foto(OFF)&lt;/div&gt;&lt;div&gt;estado=iluminando&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="120" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Oscureciendo" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-27" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.96;dx=36.15;direction=north;notch=0;rotation=65;" value="" vertex="1">
+          <mxGeometry height="440" width="41.82" x="235.41466100106106" y="304.9969134098902" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-29" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="219.59" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="estado_bebe=despierto" vertex="1">
+          <mxGeometry height="10" width="111.82" x="224.59" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="foto_rest=baja&lt;div&gt;buzzer_foto(OFF)&lt;/div&gt;&lt;div&gt;estado=iluminando&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="236.82000000000002" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-32" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.96;dx=36.15;direction=north;notch=0;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="245" width="49.13" x="470.43" y="410.59" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-33" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
+          <mxGeometry height="10" width="121.82" x="539.9999999999999" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="estado_bebe=dormido&lt;div&gt;foto_rest=alta&lt;/div&gt;" vertex="1">
+          <mxGeometry height="10" width="111.82" x="544.9999999999999" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="S-rAshJhEEYWACF8MSH5-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="foto_rest=baja&lt;div&gt;buzzer_foto(OFF)&lt;/div&gt;&lt;div&gt;estado=oscureciendo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="557.2299999999999" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
